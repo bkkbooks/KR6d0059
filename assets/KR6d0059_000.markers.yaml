@@ -1,0 +1,597 @@
+canonical_identifier: bkk:krp/KR6d0059/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6d0059_X_000-0438a, ed: X, 'n': 0438a, source_xml_id: X27.0582.0438a}
+  - {type: line-break, offset: 0, content: '', id: KR6d0059_X_000-0438a01, ed: X, 'n': 0438a01}
+  - {type: line-break, offset: 0, content: '', id: KR6d0059_X_000-0438a02, ed: X, 'n': 0438a02}
+  - {type: line-break, offset: 0, content: '', id: KR6d0059_X_000-0438a03, ed: X, 'n': 0438a03}
+  - {type: line-break, offset: 0, content: '', id: KR6d0059_X_000-0438a04, ed: X, 'n': 0438a04}
+  - {type: line-break, offset: 0, content: '', id: KR6d0059_X_000-0001a01, ed: R043, 'n': 0001a01}
+  - {type: line-break, offset: 6, content: '', id: KR6d0059_X_000-0438a05, ed: X, 'n': 0438a05}
+  - {type: line-break, offset: 6, content: '', id: KR6d0059_X_000-0438a06, ed: X, 'n': 0438a06}
+  - {type: line-break, offset: 6, content: '', id: KR6d0059_X_000-0001a03, ed: R043, 'n': 0001a03}
+  - {type: xml-element, offset: 6, content: '', id: KR6d0059_X_000-bkkxmlele1, name: list, role: open, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 6, content: '', id: itemX27p0438a0601, name: item, role: open, attrs: {'xml:id': itemX27p0438a0601}}
+  - {type: line-break, offset: 9, content: '', id: KR6d0059_X_000-0438a07, ed: X, 'n': 0438a07}
+  - {type: line-break, offset: 9, content: '', id: KR6d0059_X_000-0001a04, ed: R043, 'n': 0001a04}
+  - {type: xml-element, offset: 9, content: '', id: KR6d0059_X_000-bkkxmlele2, name: list, role: open, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 9, content: '', id: itemX27p0438a0701, name: item, role: open, attrs: {'xml:id': itemX27p0438a0701}}
+  - {type: xml-element, offset: 14, content: '', id: itemX27p0438a0701_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a0701}}
+  - {type: xml-element, offset: 14, content: '', id: KR6d0059_X_000-bkkxmlele3, name: list, role: close, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 14, content: '', id: itemX27p0438a0601_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a0601}}
+  - {type: line-break, offset: 14, content: '', id: KR6d0059_X_000-0438a08, ed: X, 'n': 0438a08}
+  - {type: line-break, offset: 14, content: '', id: KR6d0059_X_000-0001a05, ed: R043, 'n': 0001a05}
+  - {type: xml-element, offset: 14, content: '', id: itemX27p0438a0801, name: item, role: open, attrs: {'xml:id': itemX27p0438a0801}}
+  - {type: line-break, offset: 17, content: '', id: KR6d0059_X_000-0438a09, ed: X, 'n': 0438a09}
+  - {type: line-break, offset: 17, content: '', id: KR6d0059_X_000-0001a06, ed: R043, 'n': 0001a06}
+  - {type: xml-element, offset: 17, content: '', id: KR6d0059_X_000-bkkxmlele4, name: list, role: open, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 17, content: '', id: itemX27p0438a0901, name: item, role: open, attrs: {'xml:id': itemX27p0438a0901}}
+  - {type: xml-element, offset: 23, content: '', id: itemX27p0438a0901_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a0901}}
+  - {type: xml-element, offset: 23, content: '', id: KR6d0059_X_000-bkkxmlele5, name: list, role: close, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 23, content: '', id: itemX27p0438a0801_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a0801}}
+  - {type: line-break, offset: 23, content: '', id: KR6d0059_X_000-0438a10, ed: X, 'n': 0438a10}
+  - {type: line-break, offset: 23, content: '', id: KR6d0059_X_000-0001a07, ed: R043, 'n': 0001a07}
+  - {type: xml-element, offset: 23, content: '', id: itemX27p0438a1001, name: item, role: open, attrs: {'xml:id': itemX27p0438a1001}}
+  - {type: line-break, offset: 26, content: '', id: KR6d0059_X_000-0438a11, ed: X, 'n': 0438a11}
+  - {type: line-break, offset: 26, content: '', id: KR6d0059_X_000-0001a08, ed: R043, 'n': 0001a08}
+  - {type: xml-element, offset: 26, content: '', id: KR6d0059_X_000-bkkxmlele6, name: list, role: open, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 26, content: '', id: itemX27p0438a1101, name: item, role: open, attrs: {'xml:id': itemX27p0438a1101}}
+  - {type: xml-element, offset: 32, content: '', id: itemX27p0438a1101_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1101}}
+  - {type: xml-element, offset: 32, content: '', id: KR6d0059_X_000-bkkxmlele7, name: list, role: close, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 32, content: '', id: itemX27p0438a1001_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1001}}
+  - {type: line-break, offset: 32, content: '', id: KR6d0059_X_000-0438a12, ed: X, 'n': 0438a12}
+  - {type: line-break, offset: 32, content: '', id: KR6d0059_X_000-0001a09, ed: R043, 'n': 0001a09}
+  - {type: xml-element, offset: 32, content: '', id: itemX27p0438a1201, name: item, role: open, attrs: {'xml:id': itemX27p0438a1201}}
+  - {type: line-break, offset: 35, content: '', id: KR6d0059_X_000-0438a13, ed: X, 'n': 0438a13}
+  - {type: line-break, offset: 35, content: '', id: KR6d0059_X_000-0001a10, ed: R043, 'n': 0001a10}
+  - {type: xml-element, offset: 35, content: '', id: KR6d0059_X_000-bkkxmlele8, name: list, role: open, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 35, content: '', id: itemX27p0438a1301, name: item, role: open, attrs: {'xml:id': itemX27p0438a1301}}
+  - {type: xml-element, offset: 41, content: '', id: KR6d0059_X_000-bkkxmlele9, name: note, role: open, attrs: {place: inline}}
+  - {type: substitution, offset: 41, original: 欠, replacement: 缺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4372}}
+  - {type: xml-element, offset: 49, content: '', id: KR6d0059_X_000-bkkxmlele10, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 49, content: '', id: itemX27p0438a1301_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1301}}
+  - {type: xml-element, offset: 49, content: '', id: KR6d0059_X_000-bkkxmlele11, name: list, role: close, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 49, content: '', id: itemX27p0438a1201_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1201}}
+  - {type: line-break, offset: 49, content: '', id: KR6d0059_X_000-0438a14, ed: X, 'n': 0438a14}
+  - {type: line-break, offset: 49, content: '', id: KR6d0059_X_000-0001a11, ed: R043, 'n': 0001a11}
+  - {type: xml-element, offset: 49, content: '', id: itemX27p0438a1401, name: item, role: open, attrs: {'xml:id': itemX27p0438a1401}}
+  - {type: line-break, offset: 52, content: '', id: KR6d0059_X_000-0438a15, ed: X, 'n': 0438a15}
+  - {type: line-break, offset: 52, content: '', id: KR6d0059_X_000-0001a12, ed: R043, 'n': 0001a12}
+  - {type: xml-element, offset: 52, content: '', id: KR6d0059_X_000-bkkxmlele12, name: list, role: open, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 52, content: '', id: itemX27p0438a1501, name: item, role: open, attrs: {'xml:id': itemX27p0438a1501}}
+  - {type: variant, offset: 61, length: 1, content: 已, 卍續: 巳}
+  - {type: xml-element, offset: 62, content: '', id: itemX27p0438a1501_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1501}}
+  - {type: line-break, offset: 62, content: '', id: KR6d0059_X_000-0438a16, ed: X, 'n': 0438a16}
+  - {type: line-break, offset: 62, content: '', id: KR6d0059_X_000-0001a13, ed: R043, 'n': 0001a13}
+  - {type: xml-element, offset: 62, content: '', id: itemX27p0438a1601, name: item, role: open, attrs: {'xml:id': itemX27p0438a1601}}
+  - {type: xml-element, offset: 72, content: '', id: itemX27p0438a1601_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1601}}
+  - {type: line-break, offset: 72, content: '', id: KR6d0059_X_000-0438a17, ed: X, 'n': 0438a17}
+  - {type: line-break, offset: 72, content: '', id: KR6d0059_X_000-0001a14, ed: R043, 'n': 0001a14}
+  - {type: xml-element, offset: 72, content: '', id: itemX27p0438a1701, name: item, role: open, attrs: {'xml:id': itemX27p0438a1701}}
+  - {type: xml-element, offset: 78, content: '', id: itemX27p0438a1701_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1701}}
+  - {type: line-break, offset: 78, content: '', id: KR6d0059_X_000-0438a18, ed: X, 'n': 0438a18}
+  - {type: line-break, offset: 78, content: '', id: KR6d0059_X_000-0001a15, ed: R043, 'n': 0001a15}
+  - {type: xml-element, offset: 78, content: '', id: itemX27p0438a1801, name: item, role: open, attrs: {'xml:id': itemX27p0438a1801}}
+  - {type: xml-element, offset: 86, content: '', id: itemX27p0438a1801_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1801}}
+  - {type: line-break, offset: 86, content: '', id: KR6d0059_X_000-0438a19, ed: X, 'n': 0438a19}
+  - {type: line-break, offset: 86, content: '', id: KR6d0059_X_000-0001a16, ed: R043, 'n': 0001a16}
+  - {type: xml-element, offset: 86, content: '', id: itemX27p0438a1901, name: item, role: open, attrs: {'xml:id': itemX27p0438a1901}}
+  - {type: xml-element, offset: 95, content: '', id: itemX27p0438a1901_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1901}}
+  - {type: line-break, offset: 95, content: '', id: KR6d0059_X_000-0438a20, ed: X, 'n': 0438a20}
+  - {type: line-break, offset: 95, content: '', id: KR6d0059_X_000-0001a17, ed: R043, 'n': 0001a17}
+  - {type: xml-element, offset: 95, content: '', id: itemX27p0438a2001, name: item, role: open, attrs: {'xml:id': itemX27p0438a2001}}
+  - {type: xml-element, offset: 101, content: '', id: itemX27p0438a2001_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a2001}}
+  - {type: line-break, offset: 101, content: '', id: KR6d0059_X_000-0438a21, ed: X, 'n': 0438a21}
+  - {type: line-break, offset: 101, content: '', id: KR6d0059_X_000-0001a18, ed: R043, 'n': 0001a18}
+  - {type: xml-element, offset: 101, content: '', id: itemX27p0438a2101, name: item, role: open, attrs: {'xml:id': itemX27p0438a2101}}
+  - {type: xml-element, offset: 109, content: '', id: itemX27p0438a2101_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a2101}}
+  - {type: line-break, offset: 109, content: '', id: KR6d0059_X_000-0438a22, ed: X, 'n': 0438a22}
+  - {type: line-break, offset: 109, content: '', id: KR6d0059_X_000-0001b01, ed: R043, 'n': 0001b01}
+  - {type: xml-element, offset: 109, content: '', id: itemX27p0438a2201, name: item, role: open, attrs: {'xml:id': itemX27p0438a2201}}
+  - {type: xml-element, offset: 116, content: '', id: itemX27p0438a2201_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a2201}}
+  - {type: xml-element, offset: 116, content: '', id: KR6d0059_X_000-bkkxmlele13, name: list, role: close, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 116, content: '', id: itemX27p0438a1401_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a1401}}
+  - {type: line-break, offset: 116, content: '', id: KR6d0059_X_000-0438a23, ed: X, 'n': 0438a23}
+  - {type: line-break, offset: 116, content: '', id: KR6d0059_X_000-0001b02, ed: R043, 'n': 0001b02}
+  - {type: xml-element, offset: 116, content: '', id: itemX27p0438a2301, name: item, role: open, attrs: {'xml:id': itemX27p0438a2301}}
+  - {type: line-break, offset: 119, content: '', id: KR6d0059_X_000-0438a24, ed: X, 'n': 0438a24}
+  - {type: line-break, offset: 119, content: '', id: KR6d0059_X_000-0001b03, ed: R043, 'n': 0001b03}
+  - {type: xml-element, offset: 119, content: '', id: KR6d0059_X_000-bkkxmlele14, name: list, role: open, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 119, content: '', id: itemX27p0438a2401, name: item, role: open, attrs: {'xml:id': itemX27p0438a2401}}
+  - {type: xml-element, offset: 126, content: '', id: itemX27p0438a2401_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a2401}}
+  - {type: page-break, offset: 126, content: '', id: KR6d0059_X_000-0438b, ed: X, 'n': 0438b, source_xml_id: X27.0582.0438b}
+  - {type: line-break, offset: 126, content: '', id: KR6d0059_X_000-0438b01, ed: X, 'n': 0438b01}
+  - {type: line-break, offset: 126, content: '', id: KR6d0059_X_000-0001b04, ed: R043, 'n': 0001b04}
+  - {type: xml-element, offset: 126, content: '', id: itemX27p0438b0101, name: item, role: open, attrs: {'xml:id': itemX27p0438b0101}}
+  - {type: xml-element, offset: 135, content: '', id: itemX27p0438b0101_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0101}}
+  - {type: line-break, offset: 135, content: '', id: KR6d0059_X_000-0438b02, ed: X, 'n': 0438b02}
+  - {type: line-break, offset: 135, content: '', id: KR6d0059_X_000-0001b05, ed: R043, 'n': 0001b05}
+  - {type: xml-element, offset: 135, content: '', id: itemX27p0438b0201, name: item, role: open, attrs: {'xml:id': itemX27p0438b0201}}
+  - {type: xml-element, offset: 144, content: '', id: itemX27p0438b0201_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0201}}
+  - {type: line-break, offset: 144, content: '', id: KR6d0059_X_000-0438b03, ed: X, 'n': 0438b03}
+  - {type: line-break, offset: 144, content: '', id: KR6d0059_X_000-0001b06, ed: R043, 'n': 0001b06}
+  - {type: xml-element, offset: 144, content: '', id: itemX27p0438b0301, name: item, role: open, attrs: {'xml:id': itemX27p0438b0301}}
+  - {type: xml-element, offset: 153, content: '', id: itemX27p0438b0301_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0301}}
+  - {type: line-break, offset: 153, content: '', id: KR6d0059_X_000-0438b04, ed: X, 'n': 0438b04}
+  - {type: line-break, offset: 153, content: '', id: KR6d0059_X_000-0001b07, ed: R043, 'n': 0001b07}
+  - {type: xml-element, offset: 153, content: '', id: itemX27p0438b0401, name: item, role: open, attrs: {'xml:id': itemX27p0438b0401}}
+  - {type: xml-element, offset: 161, content: '', id: itemX27p0438b0401_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0401}}
+  - {type: line-break, offset: 161, content: '', id: KR6d0059_X_000-0438b05, ed: X, 'n': 0438b05}
+  - {type: line-break, offset: 161, content: '', id: KR6d0059_X_000-0001b08, ed: R043, 'n': 0001b08}
+  - {type: xml-element, offset: 161, content: '', id: itemX27p0438b0501, name: item, role: open, attrs: {'xml:id': itemX27p0438b0501}}
+  - {type: xml-element, offset: 171, content: '', id: itemX27p0438b0501_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0501}}
+  - {type: line-break, offset: 171, content: '', id: KR6d0059_X_000-0438b06, ed: X, 'n': 0438b06}
+  - {type: line-break, offset: 171, content: '', id: KR6d0059_X_000-0001b09, ed: R043, 'n': 0001b09}
+  - {type: xml-element, offset: 171, content: '', id: itemX27p0438b0601, name: item, role: open, attrs: {'xml:id': itemX27p0438b0601}}
+  - {type: substitution, offset: 173, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
+  - {type: xml-element, offset: 179, content: '', id: itemX27p0438b0601_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0601}}
+  - {type: line-break, offset: 179, content: '', id: KR6d0059_X_000-0438b07, ed: X, 'n': 0438b07}
+  - {type: line-break, offset: 179, content: '', id: KR6d0059_X_000-0001b10, ed: R043, 'n': 0001b10}
+  - {type: xml-element, offset: 179, content: '', id: itemX27p0438b0701, name: item, role: open, attrs: {'xml:id': itemX27p0438b0701}}
+  - {type: xml-element, offset: 187, content: '', id: itemX27p0438b0701_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0701}}
+  - {type: line-break, offset: 187, content: '', id: KR6d0059_X_000-0438b08, ed: X, 'n': 0438b08}
+  - {type: line-break, offset: 187, content: '', id: KR6d0059_X_000-0001b11, ed: R043, 'n': 0001b11}
+  - {type: xml-element, offset: 187, content: '', id: itemX27p0438b0801, name: item, role: open, attrs: {'xml:id': itemX27p0438b0801}}
+  - {type: xml-element, offset: 195, content: '', id: itemX27p0438b0801_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0801}}
+  - {type: line-break, offset: 195, content: '', id: KR6d0059_X_000-0438b09, ed: X, 'n': 0438b09}
+  - {type: line-break, offset: 195, content: '', id: KR6d0059_X_000-0001b12, ed: R043, 'n': 0001b12}
+  - {type: xml-element, offset: 195, content: '', id: itemX27p0438b0901, name: item, role: open, attrs: {'xml:id': itemX27p0438b0901}}
+  - {type: xml-element, offset: 205, content: '', id: itemX27p0438b0901_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b0901}}
+  - {type: line-break, offset: 205, content: '', id: KR6d0059_X_000-0438b10, ed: X, 'n': 0438b10}
+  - {type: line-break, offset: 205, content: '', id: KR6d0059_X_000-0001b13, ed: R043, 'n': 0001b13}
+  - {type: xml-element, offset: 205, content: '', id: itemX27p0438b1001, name: item, role: open, attrs: {'xml:id': itemX27p0438b1001}}
+  - {type: xml-element, offset: 214, content: '', id: itemX27p0438b1001_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b1001}}
+  - {type: line-break, offset: 214, content: '', id: KR6d0059_X_000-0438b11, ed: X, 'n': 0438b11}
+  - {type: line-break, offset: 214, content: '', id: KR6d0059_X_000-0001b14, ed: R043, 'n': 0001b14}
+  - {type: xml-element, offset: 214, content: '', id: itemX27p0438b1101, name: item, role: open, attrs: {'xml:id': itemX27p0438b1101}}
+  - {type: xml-element, offset: 224, content: '', id: itemX27p0438b1101_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b1101}}
+  - {type: line-break, offset: 224, content: '', id: KR6d0059_X_000-0438b12, ed: X, 'n': 0438b12}
+  - {type: line-break, offset: 224, content: '', id: KR6d0059_X_000-0001b15, ed: R043, 'n': 0001b15}
+  - {type: xml-element, offset: 224, content: '', id: itemX27p0438b1201, name: item, role: open, attrs: {'xml:id': itemX27p0438b1201}}
+  - {type: xml-element, offset: 234, content: '', id: itemX27p0438b1201_end, name: item, role: close, attrs: {'xml:id': itemX27p0438b1201}}
+  - {type: xml-element, offset: 234, content: '', id: KR6d0059_X_000-bkkxmlele15, name: list, role: close, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 234, content: '', id: itemX27p0438a2301_end, name: item, role: close, attrs: {'xml:id': itemX27p0438a2301}}
+  - {type: xml-element, offset: 234, content: '', id: KR6d0059_X_000-bkkxmlele16, name: list, role: close, attrs: {rend: no-marker}}
+  - {type: line-break, offset: 234, content: '', id: KR6d0059_X_000-0438b13, ed: X, 'n': 0438b13}
+  - {type: line-break, offset: 234, content: '', id: KR6d0059_X_000-0001b16, ed: R043, 'n': 0001b16}
+  - {type: line-break, offset: 234, content: '', id: KR6d0059_X_000-0438b14, ed: X, 'n': 0438b14}
+  - {type: line-break, offset: 234, content: '', id: KR6d0059_X_000-0001b17, ed: R043, 'n': 0001b17}
+  - {type: xml-element, offset: 234, content: '', id: pX27p0438b1401, name: p, role: open, attrs: {'xml:id': pX27p0438b1401}}
+  - {type: xml-element, offset: 240, content: '', id: KR6d0059_X_000-bkkxmlele17, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 241, content: '', id: KR6d0059_X_000-bkkxmlele18, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 241, content: '', id: pX27p0438b1401_end, name: p, role: close, attrs: {'xml:id': pX27p0438b1401}}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b15, ed: X, 'n': 0438b15}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b16, ed: X, 'n': 0438b16}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b17, ed: X, 'n': 0438b17}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b18, ed: X, 'n': 0438b18}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b19, ed: X, 'n': 0438b19}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b20, ed: X, 'n': 0438b20}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b21, ed: X, 'n': 0438b21}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b22, ed: X, 'n': 0438b22}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b23, ed: X, 'n': 0438b23}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438b24, ed: X, 'n': 0438b24}
+  - {type: page-break, offset: 241, content: '', id: KR6d0059_X_000-0438c, ed: X, 'n': 0438c, source_xml_id: X27.0582.0438c}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438c01, ed: X, 'n': 0438c01}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438c02, ed: X, 'n': 0438c02}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438c03, ed: X, 'n': 0438c03}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438c04, ed: X, 'n': 0438c04}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438c05, ed: X, 'n': 0438c05}
+  - {type: punctuation, offset: 241, content: 'N', id: KR6d0059_X_000-bkkpn1}
+  - {type: punctuation, offset: 241, content: o, id: KR6d0059_X_000-bkkpn2}
+  - {type: punctuation, offset: 241, content: ., id: KR6d0059_X_000-bkkpn3}
+  - {type: punctuation, offset: 241, content: '5', id: KR6d0059_X_000-bkkpn4}
+  - {type: punctuation, offset: 241, content: '8', id: KR6d0059_X_000-bkkpn5}
+  - {type: punctuation, offset: 241, content: '2', id: KR6d0059_X_000-bkkpn6}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0438c06, ed: X, 'n': 0438c06}
+  - {type: line-break, offset: 241, content: '', id: KR6d0059_X_000-0002a01, ed: R043, 'n': 0002a01}
+  - {type: variant, offset: 250, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 381, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 423, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 819, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 891, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1091, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1128, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1163, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1196, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1295, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1388, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1430, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 1439, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1526, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1538, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1568, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1586, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1618, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1886, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1901, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1915, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 1929, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2009, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2396, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2415, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 2445, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 2453, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 2481, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2517, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2529, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2532, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2671, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2758, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2770, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2898, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2904, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2906, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2925, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 2935, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 2948, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 3002, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3091, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3144, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3150, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3225, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3280, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3355, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3358, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3367, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3371, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3388, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3426, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3505, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3594, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3597, length: 1, content: 弟, 卍續: 第}
+  - {type: variant, offset: 3630, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3651, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3681, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3773, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3913, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3989, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4133, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4160, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4245, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4303, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4436, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4440, length: 1, content: 妄, 卍續: 忘}
+  - {type: variant, offset: 4479, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4526, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4576, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4651, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4683, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4861, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4897, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4923, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4936, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4977, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 4990, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5010, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5060, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5466, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5479, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5496, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5632, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5640, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5652, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5679, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5686, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 5750, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6032, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6068, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 6070, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6111, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 6199, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6205, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6241, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6317, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6377, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6394, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6415, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6416, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6485, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6656, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6697, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6726, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6778, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6793, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6821, length: 1, content: 每K09n0116_p0742b12T09n0264_p0149b16T33n1715_p0635a25, 卍續: 母}
+  - {type: variant, offset: 6832, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6949, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 6956, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7027, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7046, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7109, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7153, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7158, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7177, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7188, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 7198, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7384, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7429, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7434, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7443, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7464, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7485, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7590, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7739, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7937, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7948, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 7979, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8011, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8014, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8084, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8167, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8203, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8299, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8317, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8432, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 8464, length: 1, content: 歡, 卍續: 勸}
+  - {type: variant, offset: 8480, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8550, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8562, length: 1, content: 歡, 卍續: 勸}
+  - {type: variant, offset: 8571, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8578, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8589, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8590, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8736, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8749, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8755, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8786, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8792, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8862, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8921, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8932, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8945, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8950, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 8963, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9094, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9243, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9246, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9366, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 9432, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9470, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9480, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9547, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9651, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9657, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9923, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9955, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 9960, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10110, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10160, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10244, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10264, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10330, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10388, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10414, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10510, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10594, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10612, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10649, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10678, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10699, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10717, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10745, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10772, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10776, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 10790, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10802, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10820, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10932, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10951, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 10984, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11189, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11239, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11269, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11292, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11334, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11413, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11449, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11526, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11527, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11580, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11583, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11589, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11708, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11758, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11880, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11903, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11943, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 11952, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12018, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12070, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12077, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12358, length: 1, content: 遶, 卍續: 饒}
+  - {type: variant, offset: 12508, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12526, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12559, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12585, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12611, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12662, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12684, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12772, length: 1, content: 實, 卍續: 寶}
+  - {type: variant, offset: 12892, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12930, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 12988, length: 1, content: 怳T45n1859_p0192b25, 卍續: 悅}
+  - {type: variant, offset: 13074, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13111, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13205, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13335, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13418, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13572, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13655, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 13671, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13683, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13750, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13759, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 13911, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14027, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14107, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14115, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14178, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14208, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14217, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14239, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14271, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14304, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14304, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14317, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14351, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14583, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14584, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 14677, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14745, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14759, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14844, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14851, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14879, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14923, length: 1, content: 觀, 卍續: 現}
+  - {type: variant, offset: 14930, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 14996, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15048, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15048, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 15315, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15479, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15537, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 15571, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15613, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15673, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15782, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15821, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15846, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 15850, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 15854, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 15861, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 15871, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 16053, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16082, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16093, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16099, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16249, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 16390, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16482, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16500, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16615, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16655, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16678, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 16836, length: 1, content: 歎, 卍續: 歡}
+  - {type: variant, offset: 16874, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 17489, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 17493, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 17585, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 17666, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 17795, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 17872, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18062, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18107, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18111, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18155, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 18247, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18251, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18365, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18377, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18397, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18464, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18484, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18523, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18560, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18595, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18722, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18792, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18802, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18825, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18836, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18901, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18911, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18932, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18933, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18948, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 18990, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19031, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19034, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19051, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19076, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19108, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19147, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19228, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19265, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19582, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19647, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19684, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19773, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 19821, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20001, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20217, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20220, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20266, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20292, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20403, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20499, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20522, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20568, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20594, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20696, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 20774, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20832, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 20853, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21006, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21367, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21420, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21441, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21505, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21529, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21545, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21549, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21790, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21904, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21906, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21943, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21951, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21962, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 21975, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22018, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22026, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22050, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22054, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22065, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22082, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22101, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22298, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22304, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22308, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22312, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22399, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22439, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22509, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 22978, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23107, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23141, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23162, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23236, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23301, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23355, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23373, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23387, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23403, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23421, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23438, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23456, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23504, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23583, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23653, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23676, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23856, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23892, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 23941, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 24302, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 24402, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 24469, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 24724, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 25525, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 25600, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 25660, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 25671, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 25690, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 25701, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 25719, length: 1, content: 已, 卍續: 巳}
+  body: []
+  back: []
+hash: sha256:77c4d4f04faa0c45636941d04c59403eced757652912f354f057d7be7e0f73e5

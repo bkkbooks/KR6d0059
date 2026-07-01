@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6d0059/x/v1/juan/0
+seq: 0
+front:
+  text: 法華統略目次卷上本釋序品第一卷上末釋方便品第二卷中本釋譬喻品第三卷中末釋信解品第四欠經第三全卷之釋卷下本釋五百弟子授記品第八釋學無學人授記品第九釋法師品第十釋見寶塔品第十一釋提婆達多品第十二釋持品第十三釋安樂行品第十四釋涌出品第十五卷下末釋壽量品第十六釋分別功德品第十七釋隨喜功德品第十八釋法師功德品第十九釋常不輕品第二十釋如來神力品第二十一釋囑累品第二十二釋藥王品第二十三釋妙音品第二十四釋觀音普門品第二十五釋陀羅尼品第二十六釋妙莊嚴王品第二十七釋普賢勸發品第二十八法華統略目次終
+  hash: sha256:0bbd91884bce5853cbcbb03ff4f40ae428200facef4db8139c60076abbcd0856
+  markers:
+  - {type: 其他, offset: 0, content: 法華統略目次, id: KR6d0059_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華統略
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X27/X27n0582.xml
+    old_id: X27n0582
+hash: sha256:f414d1f2849c21d6166b08f312fdc1960f67277bc4e6c93047cb3564f244039c
